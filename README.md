@@ -15,7 +15,7 @@ Let me introduce you about myself, my name is Zaid(Not Real); 17y.o from NCR(Del
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/Timesisnotwaiting)
 
 ## My Stats
-![ GitHub stats](https://github-readme-stats.vercel.app/api?username=TIMESISNOTWAITING&show_icons=true&theme=radical)
+![ GitHub stats](https://github-readme-stats.vercel.app/api?username=ITZ-ZAID&show_icons=true&theme=radical)
 
 [![NOICE](https://github-readme-stats.vercel.app/api/top-langs/?username=ITZ-ZAID&layout=compact&theme=midnight-purple&hide=Css)](https://github.com/ITZ-ZAID)
 
